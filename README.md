@@ -2,6 +2,12 @@
 
 An AI-powered travel planning platform that orchestrates your perfect journey. Built with React, Node.js, Python microservices, and Firebase, this application leverages intelligent agents to create personalized travel experiences with real-time insights.
 
+## 🎥 Demo Video
+
+<img width="2132" height="1226" alt="Screenshot 2026-04-20 114004" src="https://github.com/user-attachments/assets/e67fb38f-59b0-4e44-bb5e-3e4f1b0be358" />
+<br>
+Demo Video Link - (https://drive.google.com/file/d/1KvILHPLpTdtRvUix1fuGdSKfLqVP3A1g/view?usp=sharing)
+
 ## 🌟 Features
 
 ### Core Travel Planning
